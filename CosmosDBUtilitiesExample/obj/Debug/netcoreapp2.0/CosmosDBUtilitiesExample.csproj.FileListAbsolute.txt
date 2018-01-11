@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\bin\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\bin\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\bin\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\bin\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\bin\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\obj\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\obj\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\obj\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\obj\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\obj\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\obj\Debug\netcoreapp2.0\CosmosDBUtilitiesExample.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CosmosDBUtilitiesExample\CosmosDBUtilitiesExample\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

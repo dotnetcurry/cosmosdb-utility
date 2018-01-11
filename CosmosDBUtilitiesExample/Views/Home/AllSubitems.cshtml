@@ -1,0 +1,24 @@
+﻿@using CosmosDBUtilitiesExample.DTOs
+@model IList<SubItemDTO>
+@{
+    ViewData["Title"] = "To do sub-items";
+}
+<h3>@ViewData["Title"]</h3>
+<table class="table table-striped table-bordered
+    table-hover table-condensed">
+    <thead>
+        <tr class="info">
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody class="items-container">
+    @foreach (var item in Model)
+    {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+            </tr>
+    }
+    </tbody>
+</table>
